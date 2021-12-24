@@ -1,4 +1,5 @@
 ﻿using _2021._20211201;
+using _2021._20211202;
 using System;
 
 namespace _2021
@@ -7,7 +8,7 @@ namespace _2021
     {
         static void Main(string[] args)
         {
-            var one = new One();
+            var day = new Two();
         }
     }
 }
