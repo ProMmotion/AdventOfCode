@@ -22,14 +22,15 @@ namespace _2021._20211202
                 int number = Int32.Parse(inst[1]);
                 if(inst[0] == "forward"){
                     horizontal += number;
-                    // Comment bellow line for part 1
-                    depth += number*aim;
+                    depth += number*aim; // part 2
                 }
                 if(inst[0] == "up"){
-                    aim -= number;
+                    // depth -= number; // part 1
+                    aim -= number; // part 2
                 }
                 if(inst[0] == "down"){
-                    aim += number;
+                    // depth += number; // part 1
+                    aim += number; // part 2
                 }
             }
             
