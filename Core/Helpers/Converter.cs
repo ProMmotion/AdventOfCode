@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _2021.Helpers
+﻿
+namespace AoC.Core.Helpers
 {
     public static class Converter
     {

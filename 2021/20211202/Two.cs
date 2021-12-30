@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AoC.Core;
+using System;
 
-namespace _2021._20211202
+namespace AoC._2021._20211202
 {
     public class Two : Exercise
     {

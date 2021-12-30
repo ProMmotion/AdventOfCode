@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace _2021
+﻿
+namespace AoC.Core
 {
     public abstract class Exercise
     {

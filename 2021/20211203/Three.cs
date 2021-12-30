@@ -1,11 +1,9 @@
-﻿using _2021.Helpers;
+﻿using AoC.Core;
+using AoC.Core.Helpers;
 using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _2021._20211203
+namespace AoC._2021._20211203
 {
     public class Three : Exercise
     {
